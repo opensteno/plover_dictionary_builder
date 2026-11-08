@@ -240,7 +240,7 @@ margin: -6;
   <tabstop>order_combo</tabstop>
  </tabstops>
  <resources>
-  <include location="resources/resources.qrc"/>
+  <include location="resources.qrc"/>
  </resources>
  <connections>
   <connection>

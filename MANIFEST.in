@@ -2,4 +2,5 @@
 exclude plover_dictionary_builder/*_rc.py
 exclude plover_dictionary_builder/*_ui.py
 include plover_dictionary_builder/*.ui
+include plover_dictionary_builder/*.qrc
 recursive-include plover_dictionary_builder/resources *

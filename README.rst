@@ -10,6 +10,11 @@ Add new vocabulary to your dictionaries faster than ever before
 Release Notes
 -------------
 
+v1.0.0
+======
+
+- Update to Plover 5 (PySide6). Plover 4 is no longer supported.
+
 v0.1.0
 ======
 

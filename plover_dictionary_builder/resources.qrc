@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/dictionary_builder">
-        <file>icon.svg</file>
+        <file>resources/icon.svg</file>
     </qresource>
 </RCC>

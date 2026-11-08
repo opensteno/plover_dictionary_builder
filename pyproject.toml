@@ -1,0 +1,7 @@
+[build-system]
+requires = [
+	"plover[gui_qt]>=5.0.0",
+	"setuptools>=79.0.0",
+	"wheel",
+]
+build-backend = "setuptools.build_meta"
